@@ -20,9 +20,37 @@ So, welcome to our world of resurrected speakers, where the past meets the futur
 
 
 
-## Table of Contents
+Table of Contents
+=================
 
-[[_TOC_]]
+* [WiFiAudioLink](#wifiaudiolink)
+   * [Abstract](#abstract)
+   * [Table of Contents](#table-of-contents)
+   * [1  Introduction](#1--introduction)
+      * [1.1 Background:](#11-background)
+      * [1.2 Presentation of chapters:](#12-presentation-of-chapters)
+   * [2 Bill Of Materials](#2-bill-of-materials)
+   * [3 Theory:](#3-theory)
+   * [4  Schematic design and additional visuals:](#4--schematic-design-and-additional-visuals)
+      * [4.1 Schematic design:](#41-schematic-design)
+      * [4.2 Additional Visuals:](#42-additional-visuals)
+   * [5 Power Requirements:](#5-power-requirements)
+   * [6 Hardware and Software Description](#6-hardware-and-software-description)
+      * [6.1 Hardware description:](#61-hardware-description)
+      * [6.1.1 ESP32-WROOM-32E:](#611-esp32-wroom-32e)
+      * [6.1.2 LM1084IT-3.3 Voltage regulator:](#612-lm1084it-33-voltage-regulator)
+      * [6.1.3 Audio Jack Connector:](#613-audio-jack-connector)
+      * [6.1.4 OLED Screen:](#614-oled-screen)
+      * [6.1.5 PCB as Capacitor:](#615-pcb-as-capacitor)
+      * [6.2 Software descripton:](#62-software-descripton)
+   * [7 Assembly Process:](#7-assembly-process)
+   * [8 Testing](#8-testing)
+   * [9 Challenges:](#9-challenges)
+      * [10 Results](#10-results)
+      * [11 Discussion](#11-discussion)
+   * [12 Improvements and future upgrades:](#12-improvements-and-future-upgrades)
+   * [13	Concluding Comments](#13concluding-comments)
+   * [14 References](#14-references)
 
 
 ## 1  Introduction
