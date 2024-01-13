@@ -1,0 +1,3 @@
+[submodule "code/WiFiAudioLink"]
+	path = code/WiFiAudioLink
+	url = https://github.com/anim1311/WiFiAudioLink.git
