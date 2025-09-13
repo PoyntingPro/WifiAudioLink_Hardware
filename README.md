@@ -89,6 +89,8 @@ The wireless speaker conversion PCB is carefully crafted to seamlessly integrate
 ![Schematic.png](./resources/SchematicWGP.jpeg)
 ![Schematic.png](./resources/Schematic1.jpeg)
 ![Schematic.png](./resources/SchematicN.jpeg)
+<img width="626" height="679" alt="image" src="https://github.com/user-attachments/assets/6b79064e-8209-4695-89de-4bac2573f113" />
+
 
 ## 5 Power Requirements:
 
